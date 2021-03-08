@@ -1,0 +1,20 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 200px 200px 200px;
+  background-color: aquamarine;
+}
+
+.card{
+
+  background-color: aqua;
+  border: 3px gold;
+  border-style: solid;
+}
+
+
+.button-container {
+  background-color: greenyellow;
+  margin: auto;
+  width: 50%;
+}
